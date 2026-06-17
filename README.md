@@ -300,6 +300,6 @@ By using this software you accept the [Legal Notice](LEGAL_NOTICE.md). It covers
  </picture>
 </a>
 
-**Made with ❤️**
+
 
 </div>
